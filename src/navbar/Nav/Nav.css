@@ -1,0 +1,12 @@
+.nav{
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    margin: 20px;
+}

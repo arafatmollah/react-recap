@@ -1,0 +1,11 @@
+.post{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 5px;
+    
+}
+.body{
+    background-color: rgba(77, 233, 77, 0.208);
+    margin: 10px;
+    padding: 10px;
+}

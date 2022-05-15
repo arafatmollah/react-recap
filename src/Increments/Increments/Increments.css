@@ -1,0 +1,10 @@
+.increment{
+    text-align: center;
+}
+.button{
+    border: none;
+    background-color: slateblue;
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+}
